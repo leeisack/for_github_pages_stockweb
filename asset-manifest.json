@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/for_github_pages_stockweb/static/css/main.0da9c361.chunk.css",
+    "main.js": "/for_github_pages_stockweb/static/js/main.3a224b11.chunk.js",
+    "main.js.map": "/for_github_pages_stockweb/static/js/main.3a224b11.chunk.js.map",
+    "runtime-main.js": "/for_github_pages_stockweb/static/js/runtime-main.85cf8037.js",
+    "runtime-main.js.map": "/for_github_pages_stockweb/static/js/runtime-main.85cf8037.js.map",
+    "static/css/2.8938a2ac.chunk.css": "/for_github_pages_stockweb/static/css/2.8938a2ac.chunk.css",
+    "static/js/2.93e2d119.chunk.js": "/for_github_pages_stockweb/static/js/2.93e2d119.chunk.js",
+    "static/js/2.93e2d119.chunk.js.map": "/for_github_pages_stockweb/static/js/2.93e2d119.chunk.js.map",
+    "index.html": "/for_github_pages_stockweb/index.html",
+    "static/css/2.8938a2ac.chunk.css.map": "/for_github_pages_stockweb/static/css/2.8938a2ac.chunk.css.map",
+    "static/css/main.0da9c361.chunk.css.map": "/for_github_pages_stockweb/static/css/main.0da9c361.chunk.css.map",
+    "static/js/2.93e2d119.chunk.js.LICENSE.txt": "/for_github_pages_stockweb/static/js/2.93e2d119.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85cf8037.js",
+    "static/css/2.8938a2ac.chunk.css",
+    "static/js/2.93e2d119.chunk.js",
+    "static/css/main.0da9c361.chunk.css",
+    "static/js/main.3a224b11.chunk.js"
+  ]
+}
